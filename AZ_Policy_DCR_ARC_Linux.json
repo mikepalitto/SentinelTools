@@ -9,7 +9,7 @@
         },
 		{
           "field": "Microsoft.HybridCompute/machines/osName",
-          "equals": "linux"
+          "like": "linux"
         }
       ]
     },
