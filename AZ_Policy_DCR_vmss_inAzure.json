@@ -9,7 +9,7 @@
         },
 		{
           "field": "Microsoft.Compute/virtualMachineScaleSets/storageProfile.osDisk.osType",
-          "like": "Linux"
+          "like": "Linux*"
         }
       ]
     },
