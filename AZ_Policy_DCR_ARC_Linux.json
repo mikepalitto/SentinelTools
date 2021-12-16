@@ -8,7 +8,7 @@
           "equals": "Microsoft.HybridCompute/machines"
         },
 		{
-          "field": "Microsoft.HybridCompute/machines/osName",
+          "field": "Microsoft.HybridCompute/imageOffers",
           "like": "linux"
         }
       ]
